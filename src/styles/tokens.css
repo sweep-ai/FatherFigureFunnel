@@ -1,0 +1,33 @@
+/* Father Figure Formula design tokens — see docs/branding.md */
+:root {
+  --color-bg: #05080d;
+  --color-bg-center: #0b1626;
+  --color-surface: #0c1420;
+  --color-surface-2: #111c2b;
+  --color-fg: #f3f6fa;
+  --color-muted: #9fb0c4;
+  --color-accent: #1e9bff;
+  --color-accent-hover: #4db1ff;
+  --color-accent-ink: #031322;
+  --color-accent-glow: rgba(30, 155, 255, 0.35);
+  --color-border: #1c2a3c;
+  --color-danger: #ff6b6b;
+
+  --font-display: 'Bebas Neue', 'Oswald', Impact, 'Arial Narrow', sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+
+  --max-width: 720px;
+  --gutter: 16px;
+
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1.25rem;
+  --space-lg: 2.5rem;
+  --space-xl: 4.5rem;
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+
+  --banner-height: 260px;
+  --header-height: 60px;
+}

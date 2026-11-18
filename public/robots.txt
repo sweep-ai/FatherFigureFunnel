@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /post-booking
+Disallow: /booking
+
+Sitemap: https://thefatherfigureformula.com/sitemap.xml
